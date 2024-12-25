@@ -1,0 +1,17 @@
+apple,WA,2.00
+cherry,UT,2.50
+grape,CA,3.00
+lemon,FL,5.00
+plum,ID,2.25
+
+fruit_file =open('fruits.txt')
+fruit_file.close()
+
+with open('fruits.tct) as fruit_file:
+    print('File is now open.')
+print('File is now closed.')
+
+with open('week6/fruits.txt) as fruit_file:
+    print('File is now open.')
+
+C:\Users\miles\Downloads\fruits.txt
